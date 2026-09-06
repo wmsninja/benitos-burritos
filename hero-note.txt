@@ -1,0 +1,1 @@
+Benito hero artwork asset is stored as /benito-hero.webp and used by the landing page.
